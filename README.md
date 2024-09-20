@@ -29,8 +29,8 @@ calendar api
 <ul id="eventList"></ul>
 
 <script>
-    const API_KEY = AIzaSyANYOwd8b9qyIrPV1OnPki6jKW_mL036_A; // Replace with your API key
-    const CLIENT_ID = 976649972416-90so6n6u934246tl1t1nd8v2btipthvu.apps.googleusercontent.com; // Replace with your Client ID
+    const API_KEY = 'AIzaSyANYOwd8b9qyIrPV1OnPki6jKW_mL036_A'; // Replace with your API key
+    const CLIENT_ID = '976649972416-90so6n6u934246tl1t1nd8v2btipthvu.apps.googleusercontent.com'; // Replace with your Client ID
     const CALENDAR_ID = 'primary'; // Use 'primary' for the user's primary calendar
 
     function handleClientLoad() {
